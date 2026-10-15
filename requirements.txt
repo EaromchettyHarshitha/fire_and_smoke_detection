@@ -1,0 +1,21 @@
+# Core Object Detection & Deep Learning
+ultralytics>=8.1.0
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Web Dashboard Interface
+streamlit>=1.30.0
+
+# Numerical, Data & Evaluation
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Configuration & Testing
+pyyaml>=6.0.0
+pytest>=7.4.0
+python-dotenv>=1.0.0
